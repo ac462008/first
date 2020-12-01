@@ -12,5 +12,6 @@ To change this template use File | Settings | File Templates.
 </head>
 <body>
 <button>按钮</button>
+<button>按钮</button>
 </body>
 </html>
