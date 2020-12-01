@@ -12,5 +12,6 @@
   </head>
   <body>
   <button>按钮</button>
+  <button>按钮</button>
   </body>
 </html>
